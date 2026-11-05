@@ -1,4 +1,7 @@
 Welcome to jnnce
 Welcome to ISE
 Modified GitHub
+
 Altering in  Gitbash
+
+Altering GitHub
